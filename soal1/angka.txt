@@ -1,0 +1,15 @@
+masukkan banyak data : 5
+angka yang diinputkan : 1 2 3 4 5 
+
+Hasil :
+1 : 1
+2 : 1
+3 : 1
+4 : 1
+5 : 1
+masukkan banyak data : 3
+angka yang diinputkan : 2 2 1 
+
+Hasil :
+1 : 1
+2 : 2
